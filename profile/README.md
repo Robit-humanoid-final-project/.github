@@ -1,3 +1,9 @@
 # 로빛 최종 프로젝트 organization
 
 깃 커밋 컨벤션: [참조 링크](https://velog.io/@archivvonjang/Git-Commit-Message-Convention)
+
+# dynamixelSDK, interfaces
+```
+git clone -b jazzy https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+git clone -b jazzy https://github.com/ROBOTIS-GIT/dynamixel_interfaces.git
+```
