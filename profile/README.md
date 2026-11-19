@@ -7,3 +7,11 @@
 git clone -b jazzy https://github.com/ROBOTIS-GIT/DynamixelSDK.git
 git clone -b jazzy https://github.com/ROBOTIS-GIT/dynamixel_interfaces.git
 ```
+
+# Build
+```
+cd ~/colcon_ws
+source /opt/ros/jazzy/setup.bash
+colcon build --symlink-install
+source install/setup.bash
+```
