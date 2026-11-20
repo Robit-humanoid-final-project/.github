@@ -15,3 +15,22 @@ source /opt/ros/jazzy/setup.bash
 colcon build --symlink-install
 source install/setup.bash
 ```
+
+# 단축어 정리
+
+단축어에 빌드 명령어 포함 되어있습니다. 
+
+dynamixel_hardware_interface
+```
+dy
+```
+
+ik_walk
+```
+ik
+```
+
+ebimu
+```
+imu
+```
