@@ -38,16 +38,6 @@ ik_walk
 ik
 ```
 
-ebimu
-```
-imu
-```
-
-Localization
-```
-local
-```
-
 insta360_usb_cam
 ```
 insta
@@ -56,6 +46,16 @@ insta
 robot_vision
 ```
 vision
+```
+
+ebimu
+```
+imu
+```
+
+Localization
+```
+local
 ```
 
 Navigation
