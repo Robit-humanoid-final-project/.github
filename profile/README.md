@@ -2,6 +2,14 @@
 
 깃 커밋 컨벤션: [참조 링크](https://velog.io/@archivvonjang/Git-Commit-Message-Convention)
 
+# 모든 패키지 다운로드
+```
+git clone -b jazzy https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+git clone -b jazzy https://github.com/ROBOTIS-GIT/dynamixel_interfaces.git
+
+gh repo list Robit-humanoid-final-project --limit 500 --json nameWithOwner --jq '.[].nameWithOwner' | xargs -n 1 gh repo clone
+```
+
 # dynamixelSDK, interfaces
 ```
 git clone -b jazzy https://github.com/ROBOTIS-GIT/DynamixelSDK.git
