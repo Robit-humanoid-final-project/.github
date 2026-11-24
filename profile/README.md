@@ -38,7 +38,7 @@ colcon build --symlink-install
 source install/setup.bash
 ```
 
-# 단축어 정리
+# alias 정리
 
 단축어에 빌드 명령어 포함 되어있습니다. 
 
@@ -55,4 +55,34 @@ ik
 ebimu
 ```
 imu
+```
+
+Localization
+```
+local
+```
+
+insta360_usb_cam
+```
+insta
+```
+
+robot_vision
+```
+vision
+```
+
+Navigation
+```
+na
+```
+
+task planner
+```
+ta
+```
+
+gamecontroller
+```
+gc
 ```
